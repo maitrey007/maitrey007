@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maitrey007
+- 👋 Hi, I’m MAITREY
 - 👀 I’m interested in ...Machine Learning
 - 🌱 I’m currently learning ...Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...Data Analysis projects
